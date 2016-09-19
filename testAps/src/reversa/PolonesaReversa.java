@@ -1,7 +1,7 @@
 
 package reversa;
 
-// -------------------------------------------------- Fonte: PolonesaReversa.java
+// -------------------------------------------------- PolonesaReversa.java
 
 import java.util.Scanner;
 	public class PolonesaReversa {

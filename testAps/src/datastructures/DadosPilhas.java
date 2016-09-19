@@ -108,7 +108,10 @@ import java.util.Scanner;
 }
 	
 	/*
+	 * levei cerca de 4 dias para entender como usar o git por isso ele tem pouco commit
 	 * Consegui criar as classes com a ajuda de um amigo que entende java e esta me
-	 * orientado quanto a construcao das mesmas com metodos e atributos 
-	 * e me explicando a estrutura dos dados e fazendo o trabalho sozinho sem parceiro em sala
+	 * orientado quanto a construcao das mesmas sobre
+	 *  os metodos e atributos  e suas aplicacoes
+	 * e me explicando a estrutura dos dados
+     * e estou fazendo o trabalho sozinho sem parceiro em sala
 	 * */
