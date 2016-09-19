@@ -114,4 +114,5 @@ import java.util.Scanner;
 	 *  os metodos e atributos  e suas aplicacoes
 	 * e me explicando a estrutura dos dados
      * e estou fazendo o trabalho sozinho sem parceiro em sala
-	 * */
+     * da melhor forma possivel para se adequar aos requisitos
+	 */
